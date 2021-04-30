@@ -33,7 +33,7 @@
    * [x] aggregating duration/time period to a singular numeric value
    * [x] replacing nan values with mean for continuous varible/featues like 
    * [x] replace nan value with 0 or 1 ( discrete values) for dsicrete varaibles 
-   * [x] aggregations along trailIdx, sessionIdx, to simplify initial analysis.  
+   * [x] aggregations along trialIdx, sessionIdx, to simplify initial analysis.  
    * [x] one hot encoding for calssification if not already present
      
 
