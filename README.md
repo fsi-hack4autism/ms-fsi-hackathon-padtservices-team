@@ -39,7 +39,7 @@
    Intial focus was to get a basic model set up to answer, the question 
    Other key feature selection tasks: 
    * [x] aggregating duration/time period to a singular numeric value
-   * [x] replacing nan values with mean for continuous varible/featues like 
+   * [x] replacing nan values with mean for continuous varible/featues like lag
    * [x] replace nan value with 0 or 1 ( discrete values) for dsicrete varaibles 
    * [x] aggregations along trialIdx, sessionIdx, to simplify initial analysis.  
    * [x] one hot encoding for calssification if not already present
