@@ -69,7 +69,7 @@
 *  [x] Continue working on this project outside of the hackathon 
 
  
-# [Acknowledgements](#Acknowledgements) 
+# Acknowledgements
    Thanks to the fanatasic organizers and tech leads in machine learning group for answering all of my questions. 
 
 
