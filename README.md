@@ -76,7 +76,7 @@
 
  
 # Acknowledgements
-   Thanks to the fanatasic organizers and tech leads in machine learning group for answering all of my questions. 
+   Thanks to the fanatasic organizers and tech leads in machine learning group for answering all of the questions. 
 
 
 
