@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Overview](#Overview)
 2. [FeatureEngineering](#FeatureEngineering)
-3. [Modeling](#Wireframes)
+3. [Modeling](#Modeling)
 4. [Evaluation](#Schema)
 5. [Next Steps](#VideoWalkthroughs)
 
@@ -28,10 +28,25 @@
    
    Future goal is to perfrom CART Analysis using decision trees to improve clustering results and utilize more features. 
    Intial focus was to get a basic model set up to answer, the question 
+   Other key feature selection tasks: 
+   * [x] aggregating duration/time period to a singular numeric value
+   * [x] replacing nan values with mean for continuous varible/featues like 
+   * [x] replace nan value with 0 or 1 ( discrete values) for dsicrete varaibles 
+   * [x] one hot encoding for calssification if not already present
+     
+
    
    #### Can we determine patterns in skill acquisition which can help segment and benchmark?  and 
    #### Can we find commonalities among cases to create segments and find benchmarks based on looking at the data alone?  
   
+
+## Modeling: 
+
+1. K-Means Clustering with clusteval to find best cluster with shielloute score. 
+2. PCA to get a 2D picture of the cluster by using Dimensionality reduction 
+
+##
+
 
 
 
