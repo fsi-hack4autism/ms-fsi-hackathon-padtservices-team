@@ -3,7 +3,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-2. [FeatureSelection/Engineering](#FeatureSelection/Engineering)
+2. [FeatureEngineering](#FeatureEngineering)
 3. [Modeling](#Wireframes)
 4. [Evaluation](#Schema)
 5. [Next Steps](#VideoWalkthroughs)
@@ -16,7 +16,7 @@
 
 
 
-## FeatureSelection/Engineering
+## FeatureEngineering
 
    Observed data such as gender information to be irrelevant to actual percentage of successful trails. 
    
