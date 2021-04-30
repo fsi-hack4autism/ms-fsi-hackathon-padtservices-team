@@ -63,7 +63,8 @@
  * [x] Implement CART algoritm analysis to better understand feature importance 
  *  [x] Work on intepretability and evaluation of clustering
  *  [x] Try to answer the question on groupings based on goal/skill domain by framing it as a 
-       supervised learning problem and utilizing random forest/decision trees.       
+       supervised learning problem and utilizing random forest/decision trees.   
+*  [x] Explore density based clustering methods to find other patterns in the data
 *  [x] Continue working on this project outside of the hackathon 
 
 
