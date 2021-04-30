@@ -59,7 +59,7 @@
       <img src='image_results/pca_clusters_n_4.png' title='n=4' width=''  />
     </p>
  
- #5. NextSteps (#NextSteps)
+ # NextSteps (#NextSteps)
  * [x] Implement CART algoritm analysis to better understand feature importance 
  *  [x] Work on intepretability and evaluation of clustering
  *  [x] Try to answer the question on groupings based on goal/skill domain by framing it as a 
