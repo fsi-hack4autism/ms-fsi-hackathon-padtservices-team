@@ -35,8 +35,8 @@
       <img src='image_results/percentCorrectPerSample.png' title='percent Correct' width=''  />
     </p>
    
-   Future goal is to perfrom CART Analysis using decision trees to improve clustering results and utilize more features. 
-   Intial focus was to get a basic model set up to answer, the question 
+   Future goal is to utilizein built feature selector in python to improve clustering results and utilize more features. 
+   Initial focus was to get a basic model set up to answer, the question 
    Other key feature selection tasks: 
    * [x] aggregating duration/time period to a singular numeric value
    * [x] replacing nan values with mean for continuous varible/featues like lag
