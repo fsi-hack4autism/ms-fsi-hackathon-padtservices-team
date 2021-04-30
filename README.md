@@ -21,7 +21,9 @@
    Observed data such as gender information to be irrelevant to actual percentage of successful trails. 
    
    
-   <img src='image_results/numberOfSamples.png' title='number of Samples' width='' alt='Video Walkthrough' />
+   <img src='image_results/numberOfSamples.png' title='number of Samples' width='' />
+   <img src='image_results/percentCorrect.png' title='percent Correct' width=''  />
+     <img src='image_results/percentCorrectPerSample.png' title='percent Correct' width=''  />
    
    
    Future goal is to perfrom CART Analysis using decision trees to improve clustering results and utilize more features. 
