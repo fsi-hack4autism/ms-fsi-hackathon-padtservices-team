@@ -14,6 +14,14 @@
 ### Description
 
    Repository for Use Case 3, Machine Learning from Morgan Stanley's PADT Services team. 
+   
+   As a part of the hackathon, explored answers to the following questions, 
+  
+   #### Can we find commonalities among cases to create segments and find benchmarks based on looking at the data alone?  
+   
+   and 
+   
+   #### Can we determine patterns in skill acquisition which can help segment and benchmark? 
 
 
 
@@ -37,9 +45,7 @@
    * [x] one hot encoding for calssification if not already present
      
 
-   
-   #### Can we determine patterns in skill acquisition which can help segment and benchmark?  and 
-   #### Can we find commonalities among cases to create segments and find benchmarks based on looking at the data alone?  
+ 
   
 
 ## Modeling: 
