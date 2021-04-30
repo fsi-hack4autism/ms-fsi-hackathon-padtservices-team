@@ -49,7 +49,7 @@
 ## Evaluation 
 
 # Choosing optimal number of clusters 
- <img src='image_results/sulhoutte.png' title='number of Samples' width=''> 
+ <img src='image_results/silhoutte.png' title='number of Samples' width=''> 
  
 # PCA visualization for different numbers of clusters 
    
