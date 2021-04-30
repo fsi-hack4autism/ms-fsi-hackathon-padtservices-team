@@ -59,12 +59,11 @@
       <img src='image_results/pca_clusters_n_4.png' title='n=4' width=''  />
     </p>
  
- #5. [NextSteps](#NextSteps)
+ #5. NextSteps (#NextSteps)
  * [x] Implement CART algoritm analysis to better understand feature importance 
  *  [x] Work on intepretability and evaluation of clustering
  *  [x] Try to answer the question on groupings based on goal/skill domain by framing it as a 
-       supervised learning problem and utilizing random forest/decision trees. 
-
-
+       supervised learning problem and utilizing random forest/decision trees.       
+*  [x] Continue working on this project outside of the hackathon 
 
 
