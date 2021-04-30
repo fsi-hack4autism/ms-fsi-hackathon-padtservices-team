@@ -21,7 +21,7 @@
    Observed data such as gender information to be irrelevant to actual percentage of successful trails. 
    
    
-   <img src='instantfeedbackSprint2Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+   <img src='instantfeedbackSprint2Walkthrough.png' title='Result' width='' alt='Video Walkthrough' />
    
    
    Future goal is to perfrom CART Analysis using decision trees to improve clustering results and utilize more features. 
